@@ -11,15 +11,15 @@ const bear: BearData[] = [
         title: "About Me",
         file: "markdown/about-me.md",
         icon: "i-la:dragon",
-        excerpt: "Hey there! I'm a dragon lost in human world..."
-      },
+        excerpt: "Hey there! I'm Abin  a dreamer lost in human world..."
+      },/*
       {
         id: "github-stats",
         title: "Github Stats",
         file: "markdown/github-stats.md",
         icon: "i-icon-park-outline:github",
         excerpt: "Here are some status about my github account..."
-      },
+      },*/
       {
         id: "about-site",
         title: "About This Site",
@@ -28,7 +28,7 @@ const bear: BearData[] = [
         excerpt: "Something about this personal portfolio site..."
       }
     ]
-  },
+  },/*
   {
     id: "project",
     title: "Projects",
@@ -155,7 +155,7 @@ const bear: BearData[] = [
         link: "https://fishmail.vercel.app"
       }
     ]
-  }
+  }*/
 ];
 
 export default bear;
