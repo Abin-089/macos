@@ -1,12 +1,12 @@
 import type { LaunchpadData } from "~/types";
 
 const launchpadApps: LaunchpadData[] = [
-  {
+  /*{
     id: "flint",
     title: "Flint",
     img: "img/icons/launchpad/flint.png",
     link: "https://github.com/Renovamen/flint"
-  },
+  },*/
   {
     id: "oh-my-cv",
     title: "Oh, My CV!",
@@ -42,25 +42,25 @@ const launchpadApps: LaunchpadData[] = [
     title: "Cube Solver",
     img: "img/icons/launchpad/cube.png",
     link: "https://cube.zxh.io/"
-  },
+  },/*
   {
     id: "resume",
     title: "Résumé",
     img: "img/icons/launchpad/resume.png",
     link: "https://resume.zxh.io/"
-  },
+  },*/
   {
     id: "zelda",
     title: "Webpage for Zelda",
     img: "img/icons/launchpad/zelda.png",
     link: "https://zelda.zxh.io/"
-  },
+  },/*
   {
     id: "fishmail",
     title: "Fishmail",
     img: "img/icons/launchpad/fishmail.png",
     link: "https://fishmail.vercel.app/"
-  }
+  }*/
 ];
 
 export default launchpadApps;
