@@ -2,7 +2,7 @@
 
 ## Biography
 
-Hey there! I am a PhD student at the [Computer Science and Engineering](https://www.eecs.psu.edu/) department of [Pennsylvania State University](https://www.psu.edu/). Previously, I received my master's degree in [Computer Science](https://www.bu.edu/cs/) from [Boston University](https://www.bu.edu/) and my bachelor’s degree in [Software Engineering](http://sse.tongji.edu.cn/) from [Tongji University](https://www.tongji.edu.cn/).
+Hey there! I am Abin ,a computer science student at the [Toc H Institute of Science and Technology](https://tistcochin.edu.in/) under [KTU](https://ktu.edu.in/). Previously, I received my higher Secondary education from [St.Elizabeth Covent School](https://www.elizabethschoolvkd.com/) under [CBSE](https://www.cbse.gov.in/). 
 
 I'm trying to find a balance between research and engineering.
 
@@ -15,18 +15,17 @@ I'm also learning web development and building machine learning software and sys
 
 Contact me by:
 
-- Email: [renovamenzxh@gmail.com](mailto:renovamenzxh@gmail.com)
-- Github: [@Renovamen](https://github.com/Renovamen)
-- [Google Scholar](https://scholar.google.com/citations?user=RuW6xgMAAAAJ)
-- Linkedin: [xiaohan-zou](https://www.linkedin.com/in/xiaohan-zou)
-- 知乎: [@西伯利亚大恶龙](https://www.zhihu.com/people/chao-neng-gui-su)
-- Personal Website: [zxh.me](https://zxh.me)
+- Email: [abinbenny173@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
+- Github: [@Abin-089](https://github.com/Abin-089)
+- [youtube](https://www.youtube.com/@THEENCRYPTOR.TUBE.)
+- Linkedin: [Abin Benny](https://www.linkedin.com/in/abin-benny-372365255/)
+- Instagram: [its.abin](https://www.instagram.com/its._abin/)
+- Personal Website: [abin](https://abin-089.github.io/personal-blogweb/)
+- twitter: [AbinBenny173](https://twitter.com/AbinBenny173)
 
 
-## Résumé
+## Resume
 
-- Normal version: [English](https://zxh.me/files/cv/en.pdf) / [中文](https://zxh.me/files/cv/cn.pdf)
+- Resume: [Download](https://pdflink.to/abinresume/) 
 
-  中文版的更新很可能不及时
-
-- Interesting version: [portfolio.zxh.me](https://portfolio.zxh.me) / [resume.zxh.io](https://resume.zxh.io)
+-[Personal Blog](https://abin-089.github.io/personal-blogweb/)
