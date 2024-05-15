@@ -4,7 +4,7 @@ import type { MacActions } from "~/types";
 
 export default function Login(props: MacActions) {
   const [password, setPassword] = useState("");
-  const [sign, setSign] = useState("Click to enter");
+  const [sign, setSign] = useState("Click to enter Abin's world");
   const dark = useStore((state) => state.dark);
 
   const keyPress = (e: React.KeyboardEvent) => {
@@ -46,7 +46,7 @@ export default function Login(props: MacActions) {
           <input
             className="text-sm text-white col-start-1 col-span-4 no-outline bg-transparent px-2"
             type="password"
-            placeholder="Enter Password"
+            placeholder="Enter your name"
             onClick={(e) => e.stopPropagation()}
             onKeyDown={keyPress}
             value={password}
