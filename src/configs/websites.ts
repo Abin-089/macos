@@ -8,44 +8,44 @@ const websites: WebsitesData = {
         id: "my-blog",
         title: "Website",
         img: "https://zxh.me/img/avatar.jpg",
-        link: "https://zxh.me/",
+        link: "https://animated-portfolio-topaz.vercel.app/",
         inner: true
       },
       {
         id: "my-github",
         title: "Github",
         img: "img/sites/github.svg",
-        link: "https://github.com/Renovamen"
+        link: "https://github.com/Abin-089"
       },
       {
         id: "my-linkedin",
         title: "Linkedin",
         img: "img/sites/linkedin.svg",
-        link: "https://www.linkedin.com/in/xiaohan-zou"
+        link: "https://www.linkedin.com/in/abin-benny-372365255/"
       },
       {
         id: "my-google-scholar",
-        title: "Scholar",
-        img: "img/sites/google-scholar.svg",
-        link: "https://scholar.google.com/citations?user=RuW6xgMAAAAJ"
+        title: "Whatsapp",
+        img: "img/sites/whatsapp.svg",
+        link: "https://api.whatsapp.com/send?phone=+9109061075494&text=Hi%2Ci%27mAbin+%2C%0A"
       },
       {
         id: "my-zhihu",
-        title: "知乎",
-        img: "img/sites/zhihu.jpeg",
-        link: "https://www.zhihu.com/people/chao-neng-gui-su"
+        title: "instagram",
+        img: "img/sites/instagram.svg",
+        link: "https://www.instagram.com/its._abin/"
       },
       {
         id: "my-twitter",
         title: "Twitter",
         img: "img/sites/twitter.svg",
-        link: "https://www.twitter.com/renovamen_zxh"
+        link: "https://twitter.com/AbinBenny173"
       },
       {
         id: "my-email",
         title: "Email",
         img: "img/sites/gmail.svg",
-        link: "mailto:renovamenzxh@gmail.com"
+        link: "mailto:abinbenny173@gmail.com"
       }
     ]
   },
@@ -93,13 +93,13 @@ const websites: WebsitesData = {
         title: "Bilibili",
         img: "img/sites/bilibili.svg",
         link: "https://www.bilibili.com/"
-      },
+      },/*
       {
         id: "zhihu",
         title: "知乎",
         img: "img/sites/zhihu.jpeg",
         link: "https://www.zhihu.com/"
-      },
+      },*/
       {
         id: "leetcode",
         title: "LeetCode",
@@ -147,13 +147,13 @@ const websites: WebsitesData = {
         id: "nazo",
         title: "Nazo",
         link: "https://nazo.one-story.cn"
-      },
+      },/*
       {
         id: "svgomg",
         title: "SVGOMG",
         img: "https://jakearchibald.github.io/svgomg/imgs/icon.png",
         link: "https://jakearchibald.github.io/svgomg/"
-      },
+      },*/
       {
         id: "tiny-png",
         title: "Tiny PNG",
@@ -165,3 +165,4 @@ const websites: WebsitesData = {
 };
 
 export default websites;
+
