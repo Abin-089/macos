@@ -25,12 +25,12 @@ const launchpadApps: LaunchpadData[] = [
     img: "img/icons/launchpad/gungnir.png",
     link: "https://vuepress-theme-gungnir.vercel.app/"
   },
-  // {
-  //   id: "metallic",
-  //   title: "Metallic",
-  //   img: "img/icons/launchpad/meta.png",
-  //   link: "https://github.com/Renovamen/metallic"
-  // },
+   {
+    id: "metallic",
+    title: "Piano",
+    img: "img/icons/launchpad/meta.png",
+    link: "https://abin-089.github.io/playable_piano/"
+   },
   {
     id: "what-if",
     title: "My Notebook",
